@@ -1,4 +1,5 @@
 // TODO: What does 'this' refer to?
+// The window
 console.log(this);
 
 // TODO: What does 'this' refer to?
@@ -7,6 +8,7 @@ function helloThis() {
    }
 
 // TODO: What will this log? 
+// This will log 20
 var child = { 
    age: 10,
    ageTenYears: function() {

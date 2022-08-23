@@ -3,3 +3,6 @@ var planets = ["Earth", "Saturn", "Mars", "Jupiter", "Uranus", "Venus"];
 var star = "polaris";
 
 // WRITE YOUR CODE BELOW
+
+constellations.splice(0, 0, "Canis Major");
+console.log(constellations)

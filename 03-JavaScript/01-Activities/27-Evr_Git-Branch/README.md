@@ -12,7 +12,7 @@ In this activity, we'll learn the concept of branching by using Git commands to 
 
 * Navigate to a directory where you usually store your coding files using your command line.
 
-* Create a new directory called `git_branch_demo`. We could create a new repo in Github as well, but because we're working locally for this activity, we can skip that step and instead issue the following command:
+* Create a new directory called `g. We could create a new repo in Github as well, but because we're working locally for this activity, we can skip that step and instead issue the following command:
 
   ```bash
   mkdir git_branch_demo
@@ -126,3 +126,4 @@ git commit -m "creating a top level readme"
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+it_branch_demo`

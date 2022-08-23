@@ -1,4 +1,4 @@
-var one = 64;
+var one = "64";
 var two = "656302";
 var three = false;
 var four = 64.55;
@@ -6,7 +6,8 @@ var five = "Howdy!";
 var six;
 
 // Insert comments to explain what each console log below will log to the console
-console.log(typeof one); 
+console.log(typeof one); //* typeof = number on the log
+
 console.log(typeof two); 
 console.log(typeof three); 
 console.log(typeof four); 
